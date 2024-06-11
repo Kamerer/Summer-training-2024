@@ -1,4 +1,4 @@
-
+"use strict"
 
 function pow(number, pow = 1) {
     return number**pow
